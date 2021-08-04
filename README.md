@@ -1,5 +1,11 @@
 ### Hi, I'm Lucas Juan! 😄
-![235700](https://user-images.githubusercontent.com/48564798/128204154-8b939b95-8b3c-4672-8970-6c452991f57b.jpg)
+
+![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
+
+I'm a Software Developer who loves programming :sparkling_heart:. <br>
+if I have a phrase that defines me it is: go ahead and do it :smiley:!
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <!--
 **ljsomm/ljsomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
