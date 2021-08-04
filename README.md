@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Lucas Juan! 😄
+![235700](https://user-images.githubusercontent.com/48564798/128204154-8b939b95-8b3c-4672-8970-6c452991f57b.jpg)
 
 <!--
 **ljsomm/ljsomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
