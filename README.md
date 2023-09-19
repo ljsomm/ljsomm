@@ -12,6 +12,18 @@ if I have a phrase that defines me it is: go ahead and do it :smiley:!
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
+### I'am certified!
+
+<div>
+<image
+height="100px"
+width="100px"
+src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"
+/>
+</div>
+<br> <!-- IM SO SORRY IT WAS THE ONLY WAY TO DO THAT -->
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljsomm&show_icons=true&theme=dark&layout=compact) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsomm&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
