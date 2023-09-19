@@ -16,6 +16,7 @@ if I have a phrase that defines me it is: go ahead and do it :smiley:!
 
 <div>
 <image
+alt="AWS Cloud Practitioner"
 height="100px"
 width="100px"
 src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"
