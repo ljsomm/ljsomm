@@ -2,7 +2,7 @@
 
 ![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
 
-I'm a Senior Software Engineer who loves be part of new technicals and business challenges :sparkling_heart:. <br>
+I'm a Senior Software Engineer who loves facing new technicals and business challenges :sparkling_heart:. <br>
 If I have a phrase that defines me it is: go ahead and do it :smiley:!
 
 ### Main Technologies
