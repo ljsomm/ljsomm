@@ -2,8 +2,8 @@
 
 ![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
 
-I'm an Application Developer who loves programming :sparkling_heart:. <br>
-if I have a phrase that defines me it is: go ahead and do it :smiley:!
+I'm a Senior Software Engineer who loves be part of new technicals and business challenges :sparkling_heart:. <br>
+If I have a phrase that defines me it is: go ahead and do it :smiley:!
 
 ### Main Technologies
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/NodeJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-1B6BFF?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
