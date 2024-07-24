@@ -28,6 +28,10 @@ src="https://d1.awsstatic.com/training-and-certification/certification-badges/AW
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljsomm&show_icons=true&theme=dark&layout=compact) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsomm&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+### Get in touch
+
+<b>E-mail:</b><span>lucasjuansomm@gmail.com</span>
+
 <!--
 **ljsomm/ljsomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
