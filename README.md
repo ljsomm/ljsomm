@@ -30,7 +30,7 @@ src="https://d1.awsstatic.com/training-and-certification/certification-badges/AW
 
 ### Get in touch
 
-<b>E-mail:</b><span>lucasjuansomm@gmail.com</span>
+<b>Send me an E-mail: </b><span> lucasjuansomm@gmail.com</span>
 
 <!--
 **ljsomm/ljsomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
